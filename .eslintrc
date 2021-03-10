@@ -1,6 +1,8 @@
 {
   "extends": "react-app",
   "globals": {
-    "chrome": "readonly"
+    "chrome": "readonly",
+    "API_URL": true,
+    "IS_PRODUCTION": true
   }
 }
